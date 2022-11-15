@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1888e943-09ff-4849-afe9-be093dc9f466" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1888e943-09ff-4849-afe9-be093dc9f466" name="Changes" comment="2commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,8 +58,23 @@
       <workItem from="1666742372572" duration="6411000" />
       <workItem from="1666754582630" duration="1229000" />
       <workItem from="1667347508400" duration="157000" />
-      <workItem from="1668556052479" duration="229000" />
+      <workItem from="1668556052479" duration="586000" />
     </task>
+    <task id="LOCAL-00001" summary="2commit">
+      <created>1668556331146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668556331146</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2commit">
+      <created>1668556390077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668556390077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2commit" />
   </component>
 </project>
